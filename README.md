@@ -1,5 +1,5 @@
 
-![alt text](img/cover-photo.png)
+![alt text](img/cover-photo-revised.png)
  
 
  ## Overview
